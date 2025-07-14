@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>C:\Users\Dawid\MojDysk\Praca\Mars Rover\2019 Mars Rover VI URC\Projekty uC\MarsRover_2019URC.uvmpw</WorkspaceName>
+
+  <project>
+    <PathAndName>.\MainBoard_2019URC_1\MainBoard_2019URC_1.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\Servodrives_2019URC_1\Servodrives_2019URC_1.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Manipulator_2019URC_1\Manipulator_2019URC_1.uvprojx</PathAndName>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\Laboratorium_2019URC_1\Laboratory_URC2019_1.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\WalizkaKamil_2019URC_2\Walzika.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\Sensors_2019URC_1\Sensors_2019URC_1.uvprojx</PathAndName>
+  </project>
+
+</ProjectWorkspace>
